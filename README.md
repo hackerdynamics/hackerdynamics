@@ -1,2 +1,0 @@
-# hackerdynamics
-Github Pages Site
