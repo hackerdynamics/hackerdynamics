@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "HackerDynamics"
 title_separator          : "|"
-name                     : ""
+name                     : "Scott Sloan"
 description              : "Makers and Hackers From Wisconsin's Driftless region"
 url                      : "https://www.HackerDynamics.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
